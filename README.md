@@ -1,8 +1,8 @@
 ### Hi there, I´m Saul 👋
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Saul-Lara" alt="Saul-Lara Github Stats"/>
-
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Saul-Lara" alt="Saul-Lara Github Stats"/>
+</p>
 <!--
 **Saul-Lara/Saul-Lara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
