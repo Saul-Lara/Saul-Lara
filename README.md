@@ -1,21 +1,21 @@
-## Hi, I'm Saul Hdz! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&theme=cobalt&section=header" alt="header" width=100%/>
 
-An IT Engineer from Mexico. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Hello World!, I'm Saul Lara! 👋
 
-![followers](https://img.shields.io/github/followers/Saul-Lara?style=social)
-[![website](https://img.shields.io/badge/-Website-464646?style=flat-square&logo=firefoxbrowser&logoColor=FF7139&link=https://saul-lara.github.io/)](https://saul-lara.github.io/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Saul-Lara.Saul-Lara)
+**`Digital Craftsman (Developer/Writer)`**
+
+I’m a programmer in development continuously learning and growing, improving my skills step by step. 🚀 Each project I build is an opportunity to expand my knowledge and explore new technologies. I also enjoy sharing my learning journey by writing about my projects, providing insights and resources for fellow beginner developers.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<div>
-  <img title="HTML" alt="HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" > &nbsp;
-  <img title="Javascript" alt="Javascript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" > &nbsp;
-  <img title="Java" alt="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" > &nbsp;
-  <img title="MySQL" alt="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" > &nbsp;
-  <img title="Xamarin" alt="Xamarin" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" > &nbsp;
-  <img title="CSharp" alt="CSharp" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" > &nbsp;
-</div>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
+
 
 ### :earth_americas: Find me around the web:
 - [:newspaper: My Blog](https://hackernoon.com/u/saulhl)
@@ -23,3 +23,5 @@ An IT Engineer from Mexico. <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :bar_chart: My stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saul-Lara&show_icons=true&theme=vue" alt="Saul-Lara Github Stats"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&theme=cobalt&section=footer" alt="footer" width=100%/>
