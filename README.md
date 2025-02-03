@@ -28,21 +28,56 @@ I'm a programmer in development continuously learning and growing, improving my 
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<p align="center">
-  <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="left" alt="CSharp" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
-</p>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
+
 <br/>
 
-### :earth_americas: Find me around the web:
-- [:newspaper: My Blog](https://hackernoon.com/u/saulhl)
+<!--
+     My blog is dedicated to my projects and contains information about them. Take a look.
+-->
 
-### :bar_chart: My stats:
+### :newspaper: My Latest Blog Posts:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saul-Lara&show_icons=true&theme=vue" alt="Saul-Lara Github Stats"/>
+
+### :gear: Github Stats:
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Saul-Lara&show_icons=true&theme=react"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Saul-Lara&show_icons=true&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Saul-Lara&show_icons=true&theme=vue" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Lara&layout=compact&langs_count=8&theme=react"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Lara&layout=compact&langs_count=8&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Lara&layout=compact&langs_count=8&theme=vue" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saul-Lara/Saul-Lara/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saul-Lara/Saul-Lara/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Saul-Lara/Saul-Lara/output/github-snake.svg" />
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=5496c5&reversal=false&section=footer" />
