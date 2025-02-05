@@ -72,9 +72,17 @@ const fetchArticles = async (username, numberOfPosts = 3, pageNumber = 1) => {
     });
 
     const data = await response.json();
+
+    const options = {
+        month: 'long',
+        day: 'numeric',
+        year: 'numeric',
+        timeZone: 'UTC'
+    };
+
     return data.data.user.posts.nodes.map((post) => ({
         title: post.title,
-        publishedAt: new Date(post.publishedAt),
+        publishedAt: new Date(post.publishedAt).toLocaleDateString("en-US", options),
         brief: post.brief.replace('\n', '<br>').replace('\n', ' '),
         url: post.url,
         coverImage: post.coverImage.url
@@ -83,9 +91,6 @@ const fetchArticles = async (username, numberOfPosts = 3, pageNumber = 1) => {
 
 // Generate markdown from articles
 const generateArticlesContent = (articles) => {
-    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September',
-        'October', 'November', 'December'];
-
     let markdown = [];
 
     // Generate the header row dynamically
@@ -95,7 +100,7 @@ const generateArticlesContent = (articles) => {
     // Generate the article card
     markdown.push(`| ${articles.map(article =>
         `![Thumbnail](${article.coverImage}) <br>\
-        🗓 ${monthNames[article.publishedAt.getMonth()]} ${article.publishedAt.getDate()}, ${article.publishedAt.getFullYear()}  <br>\
+        🗓 ${article.publishedAt}  <br>\
         ${article.brief} <br><br>\
         [🔗 Take a look at the article](${article.url})<br><br>`).join(' | ')} |`)
 
