@@ -22,7 +22,7 @@ jobs:
           node-version: latest
       # Step 3: Run update-readme-articles script
       - name: Execute the script to update the articles
-        run: node .\scripts\update-readme-articles.js
+        run: node ./scripts/update-readme-articles.js
       # Step 4: Deploy the generated file to the 'master' branch
       - name: Commit and push changes in the README.md file
         env:
