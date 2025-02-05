@@ -26,7 +26,7 @@ jobs:
       # Step 4: Deploy the generated file to the 'master' branch
       - name: Commit and push changes in the README.md file
         env:
-          # This is necessary in order to push a commit to the main branch
+          # This is necessary in order to push a commit to the master branch
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -34,5 +34,5 @@ jobs:
           git add .
           if [[ -n "$(git status --porcelain)" ]]; then
             git commit -m ":rocket: IMPROVE: Auto-generated update of README.md file by an automated task"
-            git push origin main
+            git push origin master
           fi
