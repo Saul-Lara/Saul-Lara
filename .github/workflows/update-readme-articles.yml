@@ -7,32 +7,19 @@ on:
   # Allow manual triggering of the workflow
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update-readme-articles:
+  update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
-      # Step 2: Setup Node environment
-      - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/checkout@v4
+
+      - name: Generate Hashnode Cards
+        uses: Saul-Lara/hashnode-cards@v1
         with:
-          node-version: latest
-      # Step 3: Run update-readme-articles script
-      - name: Execute the script to update the articles
-        run: node ./scripts/update-readme-articles.js
-      # Step 4: Deploy the generated file to the 'master' branch
-      - name: Commit and push changes in the README.md file
-        env:
-          # This is necessary in order to push a commit to the master branch
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git commit -m ":rocket: IMPROVE: Auto-generated update of README.md file by an automated task"
-            git push origin master
-          fi
+          hashnode_blog_host: ${{ vars.HASHNODE_BLOG_HOST }}
