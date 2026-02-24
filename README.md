@@ -43,11 +43,11 @@ I'm a programmer in development continuously learning and growing, improving my 
 
 ### :newspaper: My Latest Blog Posts:
 
-<!-- ARTICLES:START -->
+<!-- HASHNODE-CARDS:START -->
 | Step-by-Step Guide to Creating an HTTP Server in C# - Part 3 | GitHub Actions for Enterprises - Week 6 | Fundamentals of GitHub Enterprise - Week 5 |
 |------------|------------|------------|
 | ![Thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1767923428404/500c2814-0b9b-4009-a6c9-d021e0b56431.png) <br>        🗓 January 9, 2026  <br>        In this post, I'll be sharing my journey of developing an HTTP Server from scratch. The focus of this post will be to integrate a Dockerfile into the project. As I am currently learning about Docker, I aim to use containers in this project.<br>About Doc... <br><br>        [🔗 Take a look at the article](https://saul-lara.hashnode.dev/step-by-step-guide-to-creating-an-http-server-in-c-part-3)<br><br> | ![Thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1767510878078/7e7d0595-2f14-421a-b6ca-044ea5982a06.png) <br>        🗓 January 4, 2026  <br>        In this post, I'll be sharing my journey through the GitHub Actions Bootcamp.<br>The purpose is to share all the knowledge learned during this bootcamp. I'll be following the Github Actions Bootcamp. The main goal of this free initiative is to help deve... <br><br>        [🔗 Take a look at the article](https://saul-lara.hashnode.dev/github-actions-for-enterprises-week-6)<br><br> | ![Thumbnail](https://cdn.hashnode.com/res/hashnode/image/upload/v1765597097222/caed6d59-863f-45da-924a-5b5715345695.png) <br>        🗓 December 13, 2025  <br>        In this post, I'll be sharing my journey through the GitHub Actions Bootcamp.<br>The purpose is to share all the knowledge learned during this bootcamp. I'll be following the Github Actions Bootcamp. The main goal of this free initiative is to help deve... <br><br>        [🔗 Take a look at the article](https://saul-lara.hashnode.dev/fundamentals-of-github-enterprise-week-5)<br><br> |
-<!-- ARTICLES:END -->
+<!-- HASHNODE-CARDS:END -->
 
 🚀 This section has been updated by GitHub Actions Workflows. ❤️
 
