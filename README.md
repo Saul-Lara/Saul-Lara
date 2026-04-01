@@ -45,25 +45,25 @@ I'm a programmer in development continuously learning and growing, improving my 
 
 <!-- HASHNODE-CARDS:START -->
 <p align="center">
-  <a href="https://saul-lara.hashnode.dev/step-by-step-guide-to-creating-an-http-server-in-c-part-3">
+  <a href="https://saul-lara.hashnode.dev/claude-code-from-scratch-part-2">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="cards/hashnode-article-card-1.svg">
       <img alt="Hashnode Card 1" src="cards/hashnode-article-card-1.svg">
     </picture>
   </a>
-  <a href="https://saul-lara.hashnode.dev/github-actions-for-enterprises-week-6">
+  <a href="https://saul-lara.hashnode.dev/claude-code-from-scratch-part-1">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="cards/hashnode-article-card-2.svg">
       <img alt="Hashnode Card 2" src="cards/hashnode-article-card-2.svg">
     </picture>
   </a>
-  <a href="https://saul-lara.hashnode.dev/fundamentals-of-github-enterprise-week-5">
+  <a href="https://saul-lara.hashnode.dev/step-by-step-guide-to-creating-an-http-server-in-c-part-3">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="cards/hashnode-article-card-3.svg">
       <img alt="Hashnode Card 3" src="cards/hashnode-article-card-3.svg">
     </picture>
   </a>
-  <a href="https://saul-lara.hashnode.dev/hands-on-experience-with-github-actions-week-4">
+  <a href="https://saul-lara.hashnode.dev/github-actions-for-enterprises-week-6">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="cards/hashnode-article-card-4.svg">
       <img alt="Hashnode Card 4" src="cards/hashnode-article-card-4.svg">
