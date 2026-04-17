@@ -23,3 +23,6 @@ jobs:
         uses: Saul-Lara/hashnode-cards@v1.0.0
         with:
           hashnode_blog_host: ${{ vars.HASHNODE_BLOG_HOST }}
+          card_type: "horizontal"
+          hashnode_stats: "true"
+          stats_mode: "partial"
