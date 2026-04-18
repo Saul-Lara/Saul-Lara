@@ -24,5 +24,3 @@ jobs:
         with:
           hashnode_blog_host: ${{ vars.HASHNODE_BLOG_HOST }}
           card_type: horizontal
-          hashnode_stats: true
-          stats_mode: partial
