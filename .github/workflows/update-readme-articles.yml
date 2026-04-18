@@ -17,12 +17,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate Hashnode Cards
-        uses: Saul-Lara/hashnode-cards@v1.0.0
+        uses: Saul-Lara/hashnode-cards@v1
         with:
           hashnode_blog_host: ${{ vars.HASHNODE_BLOG_HOST }}
-          card_type: "horizontal"
-          hashnode_stats: "true"
-          stats_mode: "partial"
+          card_type: horizontal
+          hashnode_stats: true
+          stats_mode: partial
